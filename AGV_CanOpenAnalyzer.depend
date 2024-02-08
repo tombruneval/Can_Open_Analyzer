@@ -1,0 +1,323 @@
+# depslib dependency file v1.0
+1704795163 source:c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\lex.yy.c
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<inttypes.h>
+	<dirent.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdarg.h>
+	"Yacc_CSV_Data.tab.h"
+	"Common.h"
+	"Automate.h"
+	<unistd.h>
+
+1704795163 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\yacc_csv_data.tab.h
+
+1704795163 source:c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\yacc_csv_data.tab.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Common.h"
+	"Automate.h"
+	<stddef.h>
+	<libintl.h>
+	<alloca.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+
+1702043178 source:c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\automate.c
+	"Headers/Common.h"
+	"Headers/Index/Index.h"
+	"Headers/StateMachine/Automate.h"
+
+1702038321 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\common.h
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	<string.h>
+
+1702032937 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\index.h
+	"Common.h"
+
+1697631492 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\automate.h
+	"Common.h"
+
+1702043168 source:c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\common.c
+	"Headers/Common.h"
+
+1702020839 source:c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\index.c
+	"Common.h"
+	"Index.h"
+	"Automate.h"
+
+1704794004 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\common.h
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	<string.h>
+
+1704881163 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\index.h
+	"Common.h"
+	"ErrorIndex.h"
+	"PDOIndex.h"
+	"SDOIndex.h"
+
+1704793885 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\statemachine\automate.h
+	"Common.h"
+
+1704794658 source:c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\source\automate.c
+	"Common.h"
+	"Index.h"
+	"Automate.h"
+
+1702971850 source:c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\source\common.c
+	"Common.h"
+
+1704881351 source:c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\source\index.c
+	"Common.h"
+	"Index.h"
+	"Automate.h"
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\stdio.h
+	<crtdefs.h>
+	<_mingw_print_push.h>
+	<_mingw_off_t.h>
+	<swprintf.inl>
+	<sec_api/stdio_s.h>
+	<_mingw_print_pop.h>
+
+1526089816 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\crtdefs.h
+	<_mingw.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw.h
+	"_mingw_mac.h"
+	"_mingw_secapi.h"
+	"_cygwin.h"
+	<vadefs.h>
+	"sdks/_mingw_directx.h"
+	"sdks/_mingw_ddk.h"
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw_mac.h
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw_secapi.h
+
+1526089816 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\_cygwin.h
+	<stddef.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\stddef.h
+	<crtdefs.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\vadefs.h
+	<_mingw.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\sdks\_mingw_directx.h
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\sdks\_mingw_ddk.h
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw_print_push.h
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw_off_t.h
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\swprintf.inl
+	<vadefs.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\sec_api\stdio_s.h
+	<stdio.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw_print_pop.h
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\string.h
+	<crtdefs.h>
+	<sec_api/string_s.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\sec_api\string_s.h
+	<string.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\errno.h
+	<crtdefs.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\stdlib.h
+	<crtdefs.h>
+	<limits.h>
+	<sec_api/stdlib_s.h>
+	<malloc.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\limits.h
+	<crtdefs.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\sec_api\stdlib_s.h
+	<stdlib.h>
+
+1526089816 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\malloc.h
+	<crtdefs.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\inttypes.h
+	<crtdefs.h>
+	<stdint.h>
+	<stddef.h>
+	<_mingw_print_push.h>
+	<_mingw_print_pop.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\stdint.h
+	<crtdefs.h>
+	<stddef.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\dirent.h
+	<crtdefs.h>
+	<io.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\io.h
+	<crtdefs.h>
+	<string.h>
+	<_mingw_off_t.h>
+	<string.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\stdarg.h
+	<_mingw_stdarg.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw_stdarg.h
+	<vadefs.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+	<sys/types.h>
+	<pthread_unistd.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\process.h
+	<crtdefs.h>
+	<corecrt_startup.h>
+	<sys/types.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\corecrt_startup.h
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\sys\types.h
+	<crtdefs.h>
+	<_mingw_off_t.h>
+
+1526089814 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\getopt.h
+	<crtdefs.h>
+
+1526089820 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\pthread_unistd.h
+
+1704794225 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\errorindex.h
+
+1704355468 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\pdoindex.h
+
+1702464622 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\sdoindex.h
+
+1704880884 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\sdoindex\sdoindex.h
+	"SDOIndexDrivers.h"
+	"SDOIndexEDS.h"
+	"SDOIndexGuidance.h"
+	"SDOIndexRadio.h"
+	"SDOIndexIO.h"
+	"SDOIndexPCU.h"
+
+1702476716 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\sdoindex\drivers\sdoindexdrivers.h
+
+1702995035 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\sdoindex\eds\sdoindexeds.h
+
+1702476786 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\sdoindex\guidance\sdoindexguidance.h
+
+1704459993 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\sdoindex\radio\sdoindexradio.h
+
+1704880855 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\sdoindex\io\sdoindexio.h
+
+1704879669 c:\users\tombr\onedrive - esigelec\documents\canopen\canopen_analyzer_v4\headers\index\sdoindex\pcu\sdoindexpcu.h
+
+1705413517 source:c:\users\tombr\documents\canopen\agv_canopenanalyzer\lex.yy.c
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<inttypes.h>
+	<dirent.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdarg.h>
+	"Yacc_CSV_Data.tab.h"
+	"Common.h"
+	"Automate.h"
+	<unistd.h>
+
+1705413517 c:\users\tombr\documents\canopen\agv_canopenanalyzer\yacc_csv_data.tab.h
+
+1705409807 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\common.h
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	<string.h>
+
+1704793885 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\statemachine\automate.h
+	"Common.h"
+
+1704794658 source:c:\users\tombr\documents\canopen\agv_canopenanalyzer\source\automate.c
+	"Common.h"
+	"Index.h"
+	"Automate.h"
+
+1705410304 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\index.h
+	"Common.h"
+	"ErrorIndex.h"
+	"PDOIndex.h"
+	"SDOIndex.h"
+	"BMSIndex.h"
+
+1704794225 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\errorindex.h
+
+1704355468 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\pdoindex.h
+
+1704880884 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\sdoindex\sdoindex.h
+	"SDOIndexDrivers.h"
+	"SDOIndexEDS.h"
+	"SDOIndexGuidance.h"
+	"SDOIndexRadio.h"
+	"SDOIndexIO.h"
+	"SDOIndexPCU.h"
+
+1702476716 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\sdoindex\drivers\sdoindexdrivers.h
+
+1702995035 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\sdoindex\eds\sdoindexeds.h
+
+1702476786 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\sdoindex\guidance\sdoindexguidance.h
+
+1705390516 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\sdoindex\radio\sdoindexradio.h
+
+1704880855 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\sdoindex\io\sdoindexio.h
+
+1704879669 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\index\sdoindex\pcu\sdoindexpcu.h
+
+1705413194 c:\users\tombr\documents\canopen\agv_canopenanalyzer\headers\bmsindex.h
+
+1702971850 source:c:\users\tombr\documents\canopen\agv_canopenanalyzer\source\common.c
+	"Common.h"
+
+1705413517 source:c:\users\tombr\documents\canopen\agv_canopenanalyzer\yacc_csv_data.tab.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Common.h"
+	"Automate.h"
+	<stddef.h>
+	<libintl.h>
+	<alloca.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+

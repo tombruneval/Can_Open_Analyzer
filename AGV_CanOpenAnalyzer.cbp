@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AGV_CanOpenAnalyzer" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CANOPEN_ANALYZER_V4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<ExtraCommands>
+					<Add before="C:\Program Files\CodeBlocks\MinGW\bin\mingw32-make.exe -f makefile" />
+				</ExtraCommands>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CANOPEN_ANALYZER_V4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+				<ExtraCommands>
+					<Add before="C:\Program Files\CodeBlocks\MinGW\bin\mingw32-make.exe -f makefile" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="Headers" />
+			<Add directory="Headers/Index" />
+			<Add directory="Headers/StateMachine" />
+			<Add directory="../../../../../../Program Files/CodeBlocks/MinGW/x86_64-w64-mingw32/include" />
+			<Add directory="Headers/Index/SDOIndex" />
+			<Add directory="Headers/Index/SDOIndex/Drivers" />
+			<Add directory="Headers/Index/SDOIndex/EDS" />
+			<Add directory="Headers/Index/SDOIndex/Guidance" />
+			<Add directory="Headers/Index/SDOIndex/IO" />
+			<Add directory="Headers/Index/SDOIndex/Radio" />
+			<Add directory="Headers/Index/SDOIndex/PCU" />
+		</Compiler>
+		<Linker>
+			<Add directory="Headers" />
+			<Add directory="Headers/Index" />
+			<Add directory="Headers/StateMachine" />
+		</Linker>
+		<ExtraCommands>
+			<Add before="C:\Program Files\CodeBlocks\MinGW\bin\mingw32-make.exe -f makefile" />
+		</ExtraCommands>
+		<Unit filename="Headers/Common.h" />
+		<Unit filename="Headers/Index/ErrorIndex.h" />
+		<Unit filename="Headers/Index/Index.h" />
+		<Unit filename="Headers/Index/PDOIndex.h" />
+		<Unit filename="Headers/Index/SDOIndex/Drivers/SDOIndexDrivers.h" />
+		<Unit filename="Headers/Index/SDOIndex/EDS/SDOIndexEDS.h" />
+		<Unit filename="Headers/Index/SDOIndex/Guidance/SDOIndexGuidance.h" />
+		<Unit filename="Headers/Index/SDOIndex/IO/SDOIndexIO.h" />
+		<Unit filename="Headers/Index/SDOIndex/Radio/SDOIndexRadio.h" />
+		<Unit filename="Headers/Index/SDOIndex/SDOIndex.h" />
+		<Unit filename="Headers/StateMachine/Automate.h" />
+		<Unit filename="Source/Automate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Source/Common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Source/Index.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Yacc_CSV_Data.tab.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Yacc_CSV_Data.tab.h" />
+		<Unit filename="lex.yy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
